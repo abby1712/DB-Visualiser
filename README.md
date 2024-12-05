@@ -50,3 +50,12 @@ Delete Row Functionality:
 Add Row Functionality:
 <img width="1207" alt="Screenshot 2024-12-05 at 8 54 48 AM" src="https://github.com/user-attachments/assets/aba9c889-b1bb-438f-8bb2-676eeba951d3">
 
+
+References:
+
+[1] https://www.geeksforgeeks.org/python-gui-tkinter/
+[2]https://www.geeksforgeeks.org/python-creating-a-button-in-tkinter/?ref=lbp
+[3]https://www.w3schools.com/python/python_mysql_getstarted.asp
+[4]https://www.w3schools.com/python/python_mysql_select.asp
+[5]https://www.w3schools.com/python/python_mysql_update.asp
+[6]https://www.w3schools.com/python/python_mysql_insert.asp
