@@ -53,9 +53,15 @@ Add Row Functionality:
 
 References:
 
-[1] https://www.geeksforgeeks.org/python-gui-tkinter/
-[2]https://www.geeksforgeeks.org/python-creating-a-button-in-tkinter/?ref=lbp
-[3]https://www.w3schools.com/python/python_mysql_getstarted.asp
-[4]https://www.w3schools.com/python/python_mysql_select.asp
-[5]https://www.w3schools.com/python/python_mysql_update.asp
-[6]https://www.w3schools.com/python/python_mysql_insert.asp
+- [1] https://www.geeksforgeeks.org/python-gui-tkinter/
+- [2]https://www.geeksforgeeks.org/python-creating-a-button-in-tkinter/?ref=lbp
+- [3]https://www.w3schools.com/python/python_mysql_getstarted.asp
+- [4]https://www.w3schools.com/python/python_mysql_select.asp
+- [5]https://www.w3schools.com/python/python_mysql_update.asp
+- [6]https://www.w3schools.com/python/python_mysql_insert.asp
+- [7]https://stackoverflow.com/questions/40641130/how-to-use-a-comboboxselected-virtual-event-with-tkinter (for Table drop down selector)
+- [8]https://stackoverflow.com/questions/18562123/how-to-make-ttk-treeviews-rows-editable (for table row editable)
+- [9]https://stackoverflow.com/questions/6318126/why-do-you-need-to-create-a-cursor-when-querying-a-sqlite-database (cneed for "conn" to connect to DB)
+- [10]https://stackoverflow.com/questions/6446363/clear-a-treeview (to clear tree view)
+- [11]https://stackoverflow.com/questions/30614279/tkinter-treeview-get-selected-item-values ( to get the id of the row selected in the tree value)
+- 
