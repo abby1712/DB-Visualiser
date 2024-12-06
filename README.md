@@ -24,7 +24,7 @@ pip install mysql-connector-python
 ```
 Clone the Repository
 ```bash
-git clone https://github.com/abby1712/mysql-db-visualizer.git
+git clone https://github.com/abbyseb/mysql-db-visualizer.git
 cd mysql-db-visualizer
 ```
 Install the requirements
